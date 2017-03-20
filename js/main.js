@@ -5,7 +5,7 @@
 	//配置
 	require.config({
 		baseUrl: 'js/',
-		path: {
+		paths: {
 			'angular': 'libs/angular',
 			'angular-route': 'libs/angular-route',
 			'jquery': 'libs/jquery-1.10.1',
